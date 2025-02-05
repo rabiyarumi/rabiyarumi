@@ -6,18 +6,6 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak" />
-</a>
-</div>
-
-###
-
 <h3 align="center">🛠 Language and tools</h3>
 
 ###
