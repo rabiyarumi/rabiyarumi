@@ -1,46 +1,26 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://www.litostindia.com/assets/admin/uploads/uplode3.webp"  />
+  <img height="300" src="https://i.ibb.co.com/pjVMKsQM/black-modern-gaming-channel-banner.png"  />
 </div>
+
+###
+
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <a href="https://web.facebook.com/rabeya.rumi.285936/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://web.facebook.com/rabeya.rumi.285936/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://web.facebook.com/rabeya.rumi.285936/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=rabiyarumi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<h1 align="center">hey Rabiya Rumi here</h1>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm  Rabiya Rumi from  Dhaka, Bangladesh<br><br>- 🔭 I’m a Frontend Developer<br>- 📚 I'm currently learning NextJs<br>- ⚡ I like to explore new technology</p>
-
-###
-
-<p align="left">Current Activities<br><br>-✍️ Exploring WordPress<br>-🖥️working on a Restaurant Management Project</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -62,20 +42,41 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">Contact me</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rabiyarumi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://web.facebook.com/rabeya.rumi.285936/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
 </div>
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Hi there! 👋 I'm Rabiya Rumi<br><br>I'm a passionate MERN Stack developer, always eager to learn and build exciting projects. I enjoy working on unique themed projects, creating dynamic web applications, and exploring new technologies.</p>
+
+###
+
+<h3 align="left">Current Overview</h3>
+
+###
+
+<p align="left">🚀 Currently Working On: A Matrimonial Website<br>🌱 Exploring: Next.js for better performance & SEO<br>🔍 Looking For: Exciting projects & collaborations<br>💡 Fun Fact: I talk to my code like it’s going to respond. 🤖<br>📖 Learning: Optimizing server-side rendering (SSR) and API routes in Next.js</p>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rabiyarumi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiyarumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabiyarumi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
