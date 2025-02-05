@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/pjVMKsQM/black-modern-gaming-channel-banner.png"  />
+  <img height="400" src="https://i.ibb.co.com/pjVMKsQM/black-modern-gaming-channel-banner.png"  />
 </div>
 
 ###
