@@ -6,6 +6,22 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Hi there! 👋 I'm Rabiya Rumi<br><br>I'm a passionate MERN Stack developer, always eager to learn and build exciting projects. I enjoy working on unique themed projects, creating dynamic web applications, and exploring new technologies.</p>
+
+###
+
+<h3 align="left">Current Overview</h3>
+
+###
+
+<p align="left">🚀 Currently Working On: A Matrimonial Website<br>🌱 Exploring: Next.js for better performance & SEO<br>🔍 Looking For: Exciting projects & collaborations<br>💡 Fun Fact: I talk to my code like it’s going to respond. 🤖<br>📖 Learning: Optimizing server-side rendering (SSR) and API routes in Next.js</p>
+
+###
+
 <h3 align="center">🛠 Language and tools</h3>
 
 ###
@@ -46,23 +62,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi there! 👋 I'm Rabiya Rumi<br><br>I'm a passionate MERN Stack developer, always eager to learn and build exciting projects. I enjoy working on unique themed projects, creating dynamic web applications, and exploring new technologies.</p>
-
-###
-
-<h3 align="left">Current Overview</h3>
-
-###
-
-<p align="left">🚀 Currently Working On: A Matrimonial Website<br>🌱 Exploring: Next.js for better performance & SEO<br>🔍 Looking For: Exciting projects & collaborations<br>💡 Fun Fact: I talk to my code like it’s going to respond. 🤖<br>📖 Learning: Optimizing server-side rendering (SSR) and API routes in Next.js</p>
-
-###
-
 <br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rabiyarumi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rabiyarumi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
